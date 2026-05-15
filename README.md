@@ -29,12 +29,12 @@ I am a Software Engineer focused on building scalable web applications and extra
 
 #### 🛠 [Local Hands](https://github.com/Tpekins/local-hands)
 *An artisan-hiring marketplace connecting local skilled workers with clients.*
-- **Stack:** React Native, Node.js, MongoDB.
+- **Stack:** React Native, Node.js, Nestjs, PostgreSQL.
 - **Impact:** Facilitates local labor discoverability through location-based searches and real-time bookings.
 
 #### 📅 [Event Management System](https://github.com/Tpekins/Event-Management-System)
 *A comprehensive platform for planning, ticketing, and managing large-scale events.*
-- **Stack:** PHP, MySQL, JavaScript.
+- **Stack:** PHP, MySQL, Java.
 - **Key Features:** Automated ticket generation, attendee registration, and real-time dashboard for event organizers.
 
 #### 📈 [Habit Tracking System](https://github.com/Tpekins/Habit-Tracker)
@@ -44,13 +44,8 @@ I am a Software Engineer focused on building scalable web applications and extra
 
 #### 🏠 [Smart Home & IoT System](https://github.com/Tpekins/Smart-Home-System)
 *Remote home automation using IoT protocols.*
-- **Stack:** C++, PHP, JavaScript.
+- **Stack:** C++, JavaScript.
 - **Hardware:** ESP8266/Arduino sensors linked to a web-based control panel.
-
-#### 📊 [Stock Market Predictor](https://github.com/Tpekins/Stock-Market-Predictor)
-*Machine Learning application for analyzing financial trends.*
-- **Stack:** Python, Scikit-learn, Pandas.
-
 ---
 
 ### 📊 GitHub Activity
@@ -63,6 +58,6 @@ I am a Software Engineer focused on building scalable web applications and extra
 
 ### 📫 Connect with me:
 - **LinkedIn:** [Tiani Pekins](www.linkedin.com/in/tiani-pekins-ebika) 
-- **Email:** [tianipekinsebika.com](mailto: tiani@localhands.africa)  
-- **Portfolio:** [tianipekins.m]
+- **Email:** [tiani@localhands.africa]
+- **Portfolio:** [tianipekins.me]
 - **Location:** Buea, Cameroon 🌍
