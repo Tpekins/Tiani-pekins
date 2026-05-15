@@ -8,14 +8,12 @@ Software Engineer focused on building scalable web applications and extracting i
 
 [![Website](https://img.shields.io/badge/Website-localhands.africa-20c997?style=flat-square&logo=google-chrome&logoColor=white)](https://localhands.africa)
 
-
 [![Portfolio](https://img.shields.io/badge/Portfolio-tianipekins.me-0A0A0A?style=flat-square&logo=globe&logoColor=white)](https://tianipekins.me)
-
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-tiani--pekins-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tiani-pekins-ebika)
 
-
 [![Email](https://img.shields.io/badge/Email-tiani%40localhands.africa-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:tiani@localhands.africa)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tiani-pekins-ebika)
 </div>
 
 ---
