@@ -53,7 +53,7 @@ Currently based in **Buea, Cameroon** 🌍
   <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,php&theme=dark" alt="Backend" />
 </p>
 
-> Node.js · NestJS · REST APIs · Real-time Applications
+> Node.js · NestJS · Prisma . REST APIs · Real-time Applications
 
 ### Databases
 
@@ -77,7 +77,7 @@ Currently based in **Buea, Cameroon** 🌍
   <img src="https://skillicons.dev/icons?i=cpp&theme=dark" alt="Hardware" />
 </p>
 
-> ESP8266 · Arduino · Embedded C++ · IoT Protocols 
+> ESP8266 · Arduino · Embedded C++ · IoT Protocols . JAIN SLEE
 
 ### Data & Analysis
 
