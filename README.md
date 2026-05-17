@@ -50,7 +50,7 @@ Currently based in **Buea, Cameroon** 🌍
 ### Backend & Runtime
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,php&theme=dark" alt="Backend" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs&theme=dark" alt="Backend" />
 </p>
 
 > Node.js · NestJS · Prisma . REST APIs · Real-time Applications
