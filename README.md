@@ -4,7 +4,7 @@
 
 **Full-Stack Developer & Data Analyst**
 
-Software Engineer focused on building scalable web applications and extracting insights from data. I bridge the gap between complex backend logic and intuitive frontend experiences, crafting production-grade systems across e-commerce, education, and IoT domains.
+Software Engineer focused on building scalable web applications and extracting insights from data. I bridge the gap between complex backend logic and intuitive frontend experiences, crafting production-grade systems across e-commerce, education.
 
 [![Website](https://img.shields.io/badge/Website-localhands.africa-20c997?style=flat-square&logo=google-chrome&logoColor=white)](https://localhands.africa) 
 [![Portfolio](https://img.shields.io/badge/Portfolio-tianipekins.me-0A0A0A?style=flat-square&logo=globe&logoColor=white)](https://tianipekins.me) 
