@@ -20,10 +20,10 @@ Software Engineer focused on building scalable web applications and extracting i
 I'm a full-stack engineer shipping production systems from REST APIs and real-time applications to responsive frontends and mobile apps. I combine backend expertise with frontend finesse to deliver complete solutions that scale.
 
 I've built and shipped:
-- **E-commerce & Marketplace platforms** with payment processing and multi-vendor capabilities
-- **Event management systems** with ticketing, automation, and real-time dashboards
-- **IoT and smart home systems** connecting hardware to intelligent web interfaces
-- **Productivity tools** leveraging data analysis and visualization
+- **E-commerce & Marketplace platforms** with payment processing and multi-vendor capabilities.
+- **Event management systems** with ticketing, automation, and real-time dashboards.
+- **IoT and smart home systems** connecting hardware to intelligent web interfaces.
+- **Productivity tools** leveraging data analysis and visualization.
 
 Currently based in **Buea, Cameroon** 🌍
 
