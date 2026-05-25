@@ -81,7 +81,7 @@ Currently based in **Buea, Cameroon** 🌍
 
 ### Data & Analysis
 
-> Data Visualization · Analytics · Dashboard Development · Performance Optimization
+> Data Visualization · Analytics · Dashboard Development · SEO $ Performance Optimization
 
 ### Integrations
 
