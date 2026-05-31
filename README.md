@@ -14,7 +14,7 @@ Software Engineer focused on building scalable web applications and extracting i
 </div>
 
 ---
-** My Workspace **
+**My Workspace**
 ---
 
 ---
