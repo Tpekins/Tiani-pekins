@@ -15,6 +15,11 @@ Software Engineer focused on building scalable web applications and extracting i
 
 ---
 **My Workspace**
+## My Workspace
+
+<p align="center">
+  <img src="aa.jpg" alt="My Workspace" width="700"/>
+</p>
 ---
 
 ---
