@@ -1,6 +1,6 @@
 <div align="center">
 
-# Tiani Pekins
+# Tiani Pekins Ebika
 
 **Full-Stack Developer & Data Analyst**
 
