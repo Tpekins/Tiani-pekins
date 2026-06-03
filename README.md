@@ -20,9 +20,6 @@ Software Engineer focused on building scalable web applications and extracting i
   <img src="aab.jpg" alt="My Workspace" width="1000"/>
 </p>
 
-
----
-
 ## 🧑‍💻 About
 
 I'm a full-stack engineer shipping production systems from REST APIs and real-time applications to responsive frontends and mobile apps. I combine backend expertise with frontend finesse to deliver complete solutions that scale.
