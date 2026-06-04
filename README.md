@@ -123,7 +123,6 @@ Currently based in **Buea, Cameroon** 🌍
 | 🎤 **Event Management** | Full-featured event platform with registration and ticketing | PHP · MySQL · JavaScript |
 | 🎯 **Productivity** | Habit tracking and goal management tools | React · Firebase · Frontend |
 
----
 
 ## 📌 Currently Focused On
 
@@ -133,14 +132,10 @@ Currently based in **Buea, Cameroon** 🌍
 - IoT and embedded systems expertise
 - Deepening cloud infrastructure and deployment skills
 
----
 
 ## 🌐 Languages
 
 🇬🇧 English (native) · 🇫🇷 French (intermediary) · 🇨🇲 Pidgin English (native)
-
----
-
 <div align="center">
 
 ### Let's Connect
