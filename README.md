@@ -32,8 +32,6 @@ I've built and shipped:
 
 Currently based in **Buea, Cameroon** 🌍
 
----
-
 ## 🛠️ Tech Stack
 
 ### Languages
@@ -92,8 +90,6 @@ Currently based in **Buea, Cameroon** 🌍
 
 > Payment Processing · Real-time Updates · Socket.io · Third-party APIs
 
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -107,8 +103,6 @@ Currently based in **Buea, Cameroon** 🌍
 </p>
 </div>
 
----
-
 ## 🚀 Featured Projects (Public)
 
 | Project | Description | Stack |
@@ -118,7 +112,6 @@ Currently based in **Buea, Cameroon** 🌍
 | [**Habit Tracking System**](https://github.com/Tpekins/Habit-Tracker) | Productivity tool with progress visualization, daily reminders, and streak tracking | React · Firebase |
 | [**Digital Multi-Timezone Clock**](https://github.com/Tpekins/Tpekins/tree/main/digital-clock) | Real-time global clock display with 50+ timezones, dynamic timezone management | HTML5 · CSS3 · Vanilla JavaScript |
 
----
 
 ## 🔒 What I've Built (Key Achievements)
 
