@@ -137,6 +137,7 @@ Currently based in **Buea, Cameroon** 🌍
 
 🇬🇧 English (native) · 🇫🇷 French (intermediary) · 🇨🇲 Pidgin English (native)
 <div align="center">
+---
 
 ### Let's Connect
 
