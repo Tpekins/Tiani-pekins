@@ -37,7 +37,7 @@ Currently based in **Buea, Cameroon** 🌍
 
 ## 🛠️ Tech Stack
 
-### Languages
+### 💻 Languages
 
 <p>
   <img src="https://skillicons.dev/icons?i=js,python,cpp,html,css&theme=dark" alt="Languages" />
@@ -45,15 +45,15 @@ Currently based in **Buea, Cameroon** 🌍
 
 > JavaScript · C++ · HTML5 · CSS3
 
-### Frontend
+### 🎨 Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,reactnative,vite,bootstrap&theme=dark" alt="Frontend" />
+  <img src="https://skillicons.dev/icons?i=react,vite,bootstrap&theme=dark" alt="Frontend" />
 </p>
 
 > React · React Native · Vite · Bootstrap · CSS3 · Responsive Design
 
-### Backend & Runtime
+### ⚙️ Backend & Runtime
 
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs&theme=dark" alt="Backend" />
@@ -61,7 +61,7 @@ Currently based in **Buea, Cameroon** 🌍
 
 > Node.js · NestJS · Prisma . REST APIs · Real-time Applications
 
-### Databases
+### 🗄️ Databases
 
 <p>
   <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,firebase&theme=dark" alt="Databases" />
@@ -69,7 +69,7 @@ Currently based in **Buea, Cameroon** 🌍
 
 > PostgreSQL · MongoDB · MySQL 
 
-### DevOps & Cloud
+### ☁️ DevOps & Cloud
 
 <p>
   <img src="https://skillicons.dev/icons?i=docker,git,github,firebase&theme=dark" alt="DevOps" />
@@ -77,7 +77,7 @@ Currently based in **Buea, Cameroon** 🌍
 
 > Docker · Git & GitHub · Firebase Hosting · Cloud Deployment · CI/CD Concepts
 
-### Hardware & IoT
+### 🔧 Hardware & IoT
 
 <p>
   <img src="https://skillicons.dev/icons?i=cpp&theme=dark" alt="Hardware" />
@@ -90,16 +90,19 @@ Currently based in **Buea, Cameroon** 🌍
   <img src="https://skillicons.dev/icons?i=raspberrypi&theme=dark" alt="Smart Systems" />
 </p>
 
-> CCTV Installation & Configuration · IP Camera Networks · Security System Integration · Access Control Systems · Home/Building Automation
+> CCTV Installation & Configuration · IP Camera Networks · Home/Building Automation · Access Control Systems
 
-### Data & Analysis
+###  📊  Data & Analysis
 <p>
   <img src="https://skillicons.dev/icons?i=python,tensorflow&theme=dark" alt="Data & Analysis" />
 </p>
 
 > Data Visualization · Analytics · Dashboard Development · SEO $ Performance Optimization
 
-### Integrations
+### 🔗 Integrations
+<p>
+  <img src="https://skillicons.dev/icons?i=graphql,redux&theme=dark" alt="Integrations" />
+</p>
 
 > Payment Processing · Real-time Updates · Socket.io · Third-party APIs
 
