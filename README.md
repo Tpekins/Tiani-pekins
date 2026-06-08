@@ -93,6 +93,9 @@ Currently based in **Buea, Cameroon** 🌍
 > CCTV Installation & Configuration · IP Camera Networks · Security System Integration · Access Control Systems · Home/Building Automation
 
 ### Data & Analysis
+<p>
+  <img src="https://skillicons.dev/icons?i=python,tensorflow&theme=dark" alt="Data & Analysis" />
+</p>
 
 > Data Visualization · Analytics · Dashboard Development · SEO $ Performance Optimization
 
