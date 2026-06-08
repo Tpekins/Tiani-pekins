@@ -27,10 +27,11 @@ I'm a full-stack engineer shipping production systems from REST APIs and real-ti
 I've built and shipped:
 - **E-commerce & Marketplace platforms** with payment processing and multi-vendor capabilities.
 - **Event management systems** with ticketing, automation, and real-time dashboards.
-- **IoT and smart home systems** connecting hardware to intelligent web interfaces.
+- **IoT and smart home systems** sensors, microcontrollers, and hardware connected to intelligent web interfaces.
+- **Smart systems & security infrastructure** CCTV networks, access control, and IoT-driven building automation
 - **Productivity tools** leveraging data analysis and visualization.
 
-Currently based in **Buea, Cameroon** 🌍
+  Currently based in **Buea, Cameroon** 🌍
 
 ## 🛠️ Tech Stack
 
