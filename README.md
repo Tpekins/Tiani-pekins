@@ -31,7 +31,9 @@ I've built and shipped:
 - **Smart systems & security infrastructure** CCTV networks, access control, and IoT-driven building automation
 - **Productivity tools** leveraging data analysis and visualization.
 
-  Currently based in **Buea, Cameroon** 🌍
+
+Currently based in **Buea, Cameroon** 🌍
+
 
 ## 🛠️ Tech Stack
 
@@ -81,7 +83,14 @@ I've built and shipped:
   <img src="https://skillicons.dev/icons?i=cpp&theme=dark" alt="Hardware" />
 </p>
 
-> ESP8266 · Arduino · Embedded C++ · IoT Protocols . JAIN SLEE
+> ESP8266 · Arduino · Embedded C++ · IoT Protocols & Sensor Networks . JAIN SLEE
+
+### 🔒 Smart Systems & Security
+<p>
+  <img src="https://skillicons.dev/icons?i=raspberrypi&theme=dark" alt="Smart Systems" />
+</p>
+
+> CCTV Installation & Configuration · IP Camera Networks · Security System Integration · Access Control Systems · Home/Building Automation
 
 ### Data & Analysis
 
