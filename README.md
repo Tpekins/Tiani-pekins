@@ -1,6 +1,6 @@
 <div align="center">
 
-# Tiani Pekins
+# Tiani Pekins..
 
 **Full-Stack Developer & Data Analyst**
 
