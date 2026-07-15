@@ -2,9 +2,9 @@
 
 # Tiani Pekins
 
-**Full-Stack Developer & Data Analyst**
+**Software Engineer & Distributed Systems Researcher**
 
-Software Engineer focused on building scalable web applications and extracting insights from data. I bridge the gap between complex backend logic and intuitive frontend experiences, crafting production-grade systems across e-commerce, education, and IoT domains.
+I am a Software Engineer and Researcher focused on the architecture of scalable distributed systems and database optimization. My work bridges the gap between complex, production-grade backend logic and intuitive system experiences, treating real-world platforms as experimental testbeds to study data-retrieval latency, transactional integrity, and systems performance.
 
 [![Website](https://img.shields.io/badge/Website-localhands.africa-20c997?style=flat-square&logo=google-chrome&logoColor=white)](https://localhands.africa) 
 [![Portfolio](https://img.shields.io/badge/Portfolio-tianipekins.com-0A0A0A?style=flat-square&logo=globe&logoColor=white)](https://tianipekins.com) 
